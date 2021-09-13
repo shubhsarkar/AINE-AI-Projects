@@ -1,6 +1,6 @@
-# Rock Paper Scissor (RPS)
-Python program to play rock-paper-scissor game with computer
+# Essentials of Python Programming
+Developing ‘Rock, Paper and Scissors’ game using Python programming.
+<i>Optional problem</i>:
+Developing ‘Rock, Paper, Scissors, Lizard and Spock’ game using Python programming.
 
-# Rock Paper Scissor Lizard Spock (RPSLS)
-A special version of rock-paper-scissor game where two more elements are added: Lizard and Spock
-The courtesy of this edition goes to Dr. Sheldon Cooper from The Big Bang Theory TV show.
+
