@@ -1,2 +1,7 @@
-# AINE-AI-Projects
-Projects of AINE AI internship for the month August and September '21
+# Statistical Analysis and Hypothesis Testing
+Increasing YoY revenue from game purchases by increasing retention rate of gamers<br><br>
+<b>About the project:</b> The project involves working on data related to Cookie Cats – a hugely popular puzzle game. As players progress through the levels of the game, they will occasionally encounter gates that force them to wait a non-trivial amount of time or make an in-app purchase to progress. In addition to driving in-app purchases, these gates serve the important purpose of giving players an enforced break from playing the game, hopefully resulting in the player's enjoyment of the game being increased and prolonged. But where should the gates be placed and how the placement of the gates can retain the players for more time.<br>
+The project requires you to:
+1.	Perform exploratory data analysis of the given datasets and generate their statistical summary.
+2.	Perform A/B testing between the two groups of data to analyze the impact on player retention if the first gate in Cookie Cats is moved from level 30 to level 40.
+
